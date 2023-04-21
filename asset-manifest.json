@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hospital/static/css/main.e27a5f33.css",
+    "main.js": "/hospital/static/js/main.d6dfb29f.js",
+    "static/js/787.b5bfac4d.chunk.js": "/hospital/static/js/787.b5bfac4d.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/hospital/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/hospital/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/hospital/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Pe-icon-7-stroke.svg?d7yf1v": "/hospital/static/media/Pe-icon-7-stroke.09c6a96523589cb91799.svg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/hospital/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/hospital/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Pe-icon-7-stroke.eot": "/hospital/static/media/Pe-icon-7-stroke.1d449ea50ab8389ee078.eot",
+    "static/media/Pe-icon-7-stroke.woff?d7yf1v": "/hospital/static/media/Pe-icon-7-stroke.11f7c073b050d62afb33.woff",
+    "static/media/Pe-icon-7-stroke.ttf?d7yf1v": "/hospital/static/media/Pe-icon-7-stroke.7233a7aee250f9b77fba.ttf",
+    "index.html": "/hospital/index.html",
+    "main.e27a5f33.css.map": "/hospital/static/css/main.e27a5f33.css.map",
+    "main.d6dfb29f.js.map": "/hospital/static/js/main.d6dfb29f.js.map",
+    "787.b5bfac4d.chunk.js.map": "/hospital/static/js/787.b5bfac4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e27a5f33.css",
+    "static/js/main.d6dfb29f.js"
+  ]
+}
