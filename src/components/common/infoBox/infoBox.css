@@ -1,0 +1,17 @@
+.info_sec .small-box a.small-box-footer {
+  text-align: center;
+  padding: 1px 0;
+  color: rgba(255, 255, 255, 0.8);
+  display: block;
+  background: rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.info_sec {
+  margin-top: 20px;
+}
+
+.info_sec .small-box a.small-box-footer i {
+  margin-left: 10px;
+}

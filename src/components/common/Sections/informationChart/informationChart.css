@@ -1,0 +1,24 @@
+.information_chart {
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  border: 1px solid #e1e6ef;
+  margin-top: 25px;
+}
+
+.information_chart .panel-heading {
+  padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  color: #374767;
+  background-color: #fff;
+  border-color: #e4e5e7;
+  position: relative;
+}
+.information_chart .panel-body {
+  padding: 0 15px 15px;
+}

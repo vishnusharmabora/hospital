@@ -1,0 +1,11 @@
+footer.main-footer {
+  padding: 10px;
+  padding-left: 270px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #fff;
+}
+footer.main-footer.sidebar-mini {
+  padding-left: 70px;
+}

@@ -1,0 +1,18 @@
+.table_head_section select {
+  min-width: 120px;
+  margin: 0 10px;
+  border: 1px solid #ccc;
+  padding: 3px;
+}
+
+.table_head_section label {
+  font-size: 17px;
+}
+
+.table_head_section input.form-control.input-sm {
+  max-width: 200px;
+}
+
+.table_head_section .dt-buttons.btn-group a {
+  border: 1px solid #ced4da;
+}

@@ -1,0 +1,309 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Kanit", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  overflow-x: hidden;
+  font-size: 20px;
+  font-weight: 400;
+  color: #707070;
+  line-height: 30px;
+  position: relative;
+}
+body p {
+  font-size: 20px;
+  font-weight: 400;
+  color: #707070;
+  line-height: 30px;
+}
+a {
+  font-size: 20px;
+  font-weight: 400;
+  color: #1f4565;
+}
+a:hover {
+  color: #1f4565;
+}
+.border_b {
+  border-bottom: 1px solid #e1e6ef;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+ul li {
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: 400;
+  color: #1f4565;
+  position: relative;
+}
+.container {
+  max-width: 90%;
+}
+
+.fw_thin {
+  font-weight: 100;
+}
+.fw_extralight {
+  font-weight: 200;
+}
+.fw_light {
+  font-weight: 300;
+}
+.fw_regular {
+  font-weight: 400;
+}
+.fw_medium {
+  font-weight: 500;
+}
+.fw_semibold {
+  font-weight: 600;
+}
+.fw_bold {
+  font-weight: 700;
+}
+.fw_extrabold {
+  font-weight: 800;
+}
+.fw_black {
+  font-weight: 900;
+}
+
+.fs_15 {
+  font-size: 15px;
+  line-height: 30px;
+}
+.fs_16 {
+  font-size: 16px;
+  line-height: 20px;
+}
+.fs_20 {
+  font-size: 20px;
+  line-height: 30px;
+}
+.fs_25 {
+  font-size: 25px;
+  line-height: 25px;
+}
+.fs_26 {
+  font-size: 26px;
+  line-height: 38px;
+}
+.fs_30 {
+  font-size: 30px;
+  line-height: 40px;
+}
+.fs_36 {
+  font-size: 36px;
+  line-height: 38px;
+}
+.fs_40 {
+  font-size: 40px;
+  line-height: 60px;
+}
+.fs_50 {
+  font-size: 50px;
+  line-height: 50px;
+}
+.fs_60 {
+  font-size: 60px;
+  line-height: 60px;
+}
+.fs_70 {
+  font-size: 70px;
+  line-height: 60px;
+}
+.fs_100 {
+  font-size: 100px;
+  line-height: 100px;
+}
+
+.text_primary {
+  color: #374767;
+}
+.text_white {
+  color: #fff;
+}
+.text_blue {
+  color: #2fd6fd;
+}
+.text_red {
+  color: #ff2128;
+}
+.text_green {
+  color: #77bf28;
+}
+.text_grey {
+  color: #707070;
+}
+.text_lightblue {
+  color: #d0f6ff;
+}
+.text_lightred {
+  color: #ffebd0;
+}
+
+.bg_primary {
+  background-color: #1f4565;
+}
+.bg_lightgreen {
+  background-color: #e7ffd0;
+}
+.bg_lightblue {
+  background-color: #d0f6ff;
+}
+.bg_lightred {
+  background-color: #ffebd0;
+}
+.bg_blue {
+  background-color: #2fd6fd;
+}
+.bg_skyblue {
+  background-color: #f1f9ff;
+}
+.bg_red {
+  background-color: #ff2128;
+}
+.bg_grey {
+  background-color: #f2f2f2;
+}
+.bg_green {
+  background-color: #77bf28;
+}
+.bg_pink {
+  background-color: #ffc9ca;
+}
+.bg_white {
+  background-color: #ffffff;
+}
+
+.custom_btn {
+  font-size: 16px;
+  border-radius: 10px;
+  text-align: center;
+  border: 0;
+  line-height: 15px;
+  padding: 13px 10px 15px;
+  font-weight: 600;
+}
+
+.btn_primary {
+  background-color: #1f4565;
+  color: #fff;
+}
+
+.btn_secondary {
+  background-color: #fff;
+  color: #1f4565;
+}
+
+.btn_primary_outline {
+  background: transparent;
+  border: 2px solid #1f4565;
+  color: #1f4565;
+}
+
+.btn_secondary_outline {
+  background: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.btn_white_outline {
+  background: transparent;
+  border: 2px solid #fff;
+  color: #707070;
+}
+
+.btn_grey {
+  background-color: #f2f2f2;
+  color: #1f4565;
+}
+
+.btn_blue {
+  background-color: #2fd6fd;
+  color: #fff;
+}
+
+.btn_red {
+  background-color: #ff2128;
+  color: #ffebd0;
+}
+
+.btn_lg {
+  width: 180px;
+}
+
+.btn_md {
+  width: 95px;
+}
+
+.btn_sm {
+  width: 80px;
+}
+
+@media (max-width: 767px) {
+  .custom_btn {
+    padding: 10px 5px 10px;
+    font-size: 14px;
+  }
+  .btn_md {
+    width: 70px;
+  }
+}
+.content_Section {
+  max-width: 100%;
+  padding-left: 260px;
+  background: #f1f3f6;
+  min-height: 100vh;
+  padding-top: 15px;
+  transition: padding-left 0.3s ease-in-out;
+  padding-bottom: 40px;
+}
+header.main-header.sidebar-mini + .content_Section {
+  padding-left: 60px;
+}
+.bg-aqua {
+  background-color: #00c0ef;
+}
+.bg-green {
+  background: #37a000;
+}
+.bg-blue {
+  background-color: #009999;
+}
+.bg-yellow {
+  background: #ffb61e;
+}
+.btn-primary {
+  background-color: #428bca;
+  border-color: #3b7cb4;
+}
+body .react-datepicker__navigation {
+  top: 23px;
+}
+
+.top_corner {
+  position: relative;
+}
+
+.top_corner:after {
+  content: "";
+  width: 0;
+  height: 0;
+  border-top: 12px solid #37a000;
+  border-right: 12px solid transparent;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+body {
+  background: #f1f3f6;
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "SlNo": 1,
+    "DepartmentName": "Aegon NV",
+    "Description": "BMCBaYD2cNNM1HMR6soun2pF3jjj4aVzSLoxFx9Ut3XponH9SvZ",
+    "Status": "Active",
+    "Action": null
+  },
+  {
+    "SlNo": 2,
+    "DepartmentName": "State Street Corporation",
+    "Description": "BMehtg8a4qvRr8LZwCWsDTfhv1VstVq5DyxUAd8TQsNVCHr6Ju1",
+    "Status": "Active",
+    "Action": null
+  },
+  {
+    "SlNo": 3,
+    "DepartmentName": "Urban Outfitters, Inc.",
+    "Description": "BKqjw8xo1Tr7XwGr7QYcZmWWbLWzpbRP42sfQquumQLGUAEjngf",
+    "Status": "Active",
+    "Action": null
+  },
+  {
+    "SlNo": 4,
+    "DepartmentName": "Airgain, Inc.",
+    "Description": "BMM21yKmR4qns48zPy12rEQ3hse7u5C2cHZwt2xGAgUL9TCrUwE",
+    "Status": "Active",
+    "Action": null
+  },
+  {
+    "SlNo": 5,
+    "DepartmentName": "Big Lots, Inc.",
+    "Description": "BLHzLBqZxjE5UMeVttzV1Do34EMUiugzenVej6j1KcHfbq1UNVz",
+    "Status": "Active",
+    "Action": null
+  },
+  {
+    "SlNo": 6,
+    "DepartmentName": "American Campus Communities Inc",
+    "Description": "BLxwC16TeJQtuQhapaW8QC7Vb5YeTkK4xtutEN2Ng6dNMXafMvU",
+    "Status": "Active",
+    "Action": null
+  },
+  {
+    "SlNo": 7,
+    "DepartmentName": "Quest Resource Holding Corporation.",
+    "Description": "BMMkGc4cmE8GsTshz1VURjaBKdjVaF8QnktotSKKQ96m49rfvdD",
+    "Status": "Active",
+    "Action": null
+  },
+  {
+    "SlNo": 8,
+    "DepartmentName": "SunTrust Banks, Inc.",
+    "Description": "BKsTgcDSQgJoVoHtQAjdreujKn6vqbi9vWWdMcdnf8vDT6HzWZb",
+    "Status": "Active",
+    "Action": null
+  },
+  {
+    "SlNo": 9,
+    "DepartmentName": "Northwest Natural Gas Company",
+    "Description": "BMXCEVu4XKcrHVuC6HAiJvMe6Lu7LE4md9KcNsFnRAoBxi2PkRi",
+    "Status": "Active",
+    "Action": null
+  },
+  {
+    "SlNo": 10,
+    "DepartmentName": "The Kraft Heinz Company",
+    "Description": "BLqn6EDHMEPb28zJT1UmwwNYttuKG9eZJRbvBsAvjTm9UCAU1hD",
+    "Status": "Active",
+    "Action": null
+  }
+]

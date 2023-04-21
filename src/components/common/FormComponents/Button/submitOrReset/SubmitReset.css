@@ -1,0 +1,61 @@
+.btn_two button {
+  display: inline-block;
+  min-height: 1em;
+  outline: 0;
+  border: none;
+  vertical-align: baseline;
+  background: #e0e1e2;
+  color: rgba(0, 0, 0, 0.6);
+  font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;
+  margin: 0 0.25em 0 0;
+  padding: 10px 1.5em;
+  text-transform: none;
+  text-shadow: none;
+  font-weight: 700;
+  line-height: 1em;
+  font-style: normal;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 0 0 1px transparent inset, 0 0 0 0 rgba(34, 36, 38, 0.15) inset;
+  width: 110px;
+}
+
+.btn_two {
+  position: relative;
+}
+
+.btn_two .or {
+  position: absolute;
+  text-align: center;
+  border-radius: 500rem;
+  content: "or";
+  top: 50%;
+  left: 112px;
+  background-color: #fff;
+  text-shadow: none;
+  margin-top: -0.89285714em;
+  margin-left: -0.89285714em;
+  width: 1.78571429em;
+  height: 1.78571429em;
+  line-height: 1.78571429em;
+  color: rgba(0, 0, 0, 0.4);
+  font-style: normal;
+  font-weight: 700;
+  box-shadow: 0 0 0 1px transparent inset;
+}
+
+.btn_two button:first-child {
+  border-top-left-radius: 0.28571429rem;
+  border-bottom-left-radius: 0.28571429rem;
+}
+
+.btn_two button:last-child {
+  border-top-right-radius: 0.28571429rem;
+  border-bottom-right-radius: 0.28571429rem;
+}
+.btn_two button.active {
+  background-color: #21ba45;
+  color: #fff;
+  text-shadow: none;
+  background-image: none;
+}

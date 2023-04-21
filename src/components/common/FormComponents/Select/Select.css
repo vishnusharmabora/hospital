@@ -1,0 +1,22 @@
+.form_group {
+  margin-bottom: 28px;
+  position: relative;
+}
+.form_group .custom_select {
+  padding: 14px 18px;
+  color: #707070;
+}
+.form_group .custom_select:focus {
+  outline: 0;
+}
+.form_group .custom_select::placeholder {
+  color: #707070;
+}
+.styled-select select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  width: 192px;
+  padding: 2px;
+}

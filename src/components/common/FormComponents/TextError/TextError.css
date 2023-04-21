@@ -1,0 +1,8 @@
+.text_err {
+  display: block;
+  position: absolute;
+  color: red;
+  font-size: 13px;
+  bottom: -27px;
+  left: 0;
+}
